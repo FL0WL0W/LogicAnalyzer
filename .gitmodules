@@ -1,3 +1,9 @@
 [submodule "libs/EmbeddedIOServices"]
 	path = libs/EmbeddedIOServices
 	url = https://github.com/FL0WL0W/EmbeddedIOServices
+[submodule "libs/EmbeddedIOOperations"]
+	path = libs/EmbeddedIOOperations
+	url = https://github.com/FL0WL0W/EmbeddedIOOperations
+[submodule "libs/OperationArchitecture"]
+	path = libs/OperationArchitecture
+	url = https://github.com/FL0WL0W/OperationArchitecture
